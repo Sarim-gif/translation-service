@@ -22,7 +22,7 @@ It supports:
 - Laravel 11
 
 ## Clone the repository
-- git clone https://github.com/your-username/translation-service.git
+- git clone https://github.com/Sarim-gif/translation-service.git
 - cd translation-service
 
 ## Install Dependencies
